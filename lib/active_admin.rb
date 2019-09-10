@@ -8,7 +8,7 @@ require 'formtastic'
 require 'formtastic_i18n'
 require 'inherited_resources'
 require 'jquery-rails'
-require 'sassc-rails'
+require 'sass-rails'
 require 'arbre'
 require 'sprockets/es6'
 

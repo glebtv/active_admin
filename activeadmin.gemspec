@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'kaminari', '~> 1.0', '>= 1.0.1'
   s.add_dependency 'railties', '>= 5.0', '< 6.1'
   s.add_dependency 'ransack', '~> 2.3'
-  s.add_dependency 'sass-rails'
+  s.add_dependency 'sass-rails', '~> 5.1.0'
   s.add_dependency 'sprockets', '>= 3.0', '< 4.1'
   s.add_dependency 'sprockets-es6', '~> 0.9', '>= 0.9.2'
 end
